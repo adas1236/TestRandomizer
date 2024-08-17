@@ -1,0 +1,161 @@
+﻿1. **What is one of the most significant aspects of EMS quality management?** (pg. 3)
+   - A) Continuous improvement
+   - B) Training personnel
+   - C) Collecting data
+   - D) Equipment maintenance
+
+
+2. **Which organization is primarily responsible for setting the standards for EMS systems?** (pg. 4)
+   - A) National Highway Traffic Safety Administration (NHTSA)
+   - B) American Heart Association (AHA)
+   - C) Red Cross
+   - D) Occupational Safety and Health Administration (OSHA)
+
+
+3. **What is a critical component of EMS quality management?** (pg. 5)
+   - A) Data collection and analysis
+   - B) Public relations
+   - C) Budget management
+   - D) Vehicle maintenance
+
+
+4. **Which term is defined as “the degree to which health services for individuals and populations increase the likelihood of desired health outcomes”?** (pg. 6)
+   - A) Quality
+   - B) Safety
+   - C) Efficacy
+   - D) Efficiency
+
+
+5. **What does the continuous quality improvement (CQI) process emphasize?** (pg. 8)
+   - A) Ongoing assessment and improvement
+   - B) Staff hiring and retention
+   - C) Community engagement
+   - D) Financial planning
+
+
+6. **What is the focus of the Six Sigma methodology within EMS?** (pg. 9)
+   - A) Reducing variability
+   - B) Enhancing communication
+   - C) Increasing speed
+   - D) Expanding services
+
+
+7. **Which process is crucial for identifying areas needing improvement in EMS quality?** (pg. 10)
+   - A) Root cause analysis
+   - B) Annual reviews
+   - C) Staff meetings
+   - D) Equipment checks
+
+
+8. **Who plays a key role in implementing and sustaining EMS quality management processes?** (pg. 11)
+   - A) Leadership
+   - B) Patients
+   - C) Government agencies
+   - D) Volunteers
+
+
+9. **What is the primary goal of an EMS quality management program?** (pg. 12)
+   - A) Improving patient outcomes
+   - B) Reducing costs
+   - C) Enhancing public image
+   - D) Expanding service areas
+
+
+10. **Which of the following is a common barrier to effective quality management in EMS?** (pg. 14)
+        - A) Resistance to change
+        - B) Lack of funding
+        - C) Overstaffing
+        - D) Too much training
+
+
+11. **What element is essential for the success of a quality management system?** (pg. 15)
+        - A) Strong leadership
+        - B) High budget
+        - C) Advanced technology
+        - D) Large workforce
+
+
+12. **In EMS, what does quality assurance focus on?** (pg. 16)
+        - A) Meeting minimum standards
+        - B) Advertising services
+        - C) Building new facilities
+        - D) Community outreach
+
+
+13. **What strategy is often used to ensure quality in EMS?** (pg. 17)
+        - A) Benchmarking against best practices
+        - B) Increasing call volumes
+        - C) Staff reorganization
+        - D) Expanding geographic coverage
+
+
+14. **What role does data play in EMS quality management?** (pg. 18)
+        - A) Informing decision-making
+        - B) Marketing services
+        - C) Decreasing response times
+        - D) Training new hires
+
+
+15. **What is a key outcome measure in EMS quality management?** (pg. 19)
+        - A) Patient satisfaction
+        - B) Revenue growth
+        - C) Response time reduction
+        - D) Employee retention
+
+
+16. **Which tool is used to measure performance in EMS quality management?** (pg. 20)
+        - A) Performance indicators
+        - B) Patient surveys
+        - C) Response time metrics
+        - D) Staff evaluations
+
+
+17. **What is necessary for the continual success of EMS quality management?** (pg. 21)
+        - A) Ongoing training
+        - B) High salaries
+        - C) Community support
+        - D) Expanding service lines
+
+
+18. **What is a fundamental requirement for any EMS quality management initiative?** (pg. 22)
+        - A) Commitment from leadership
+        - B) Large budget
+        - C) Long-standing tradition
+        - D) Media coverage
+
+
+19. **What should EMS quality management programs be aligned with?** (pg. 23)
+        - A) Organizational goals
+        - B) Government mandates
+        - C) Public opinions
+        - D) Competitors’ strategies
+
+
+20. **What approach is critical for improving EMS services?** (pg. 24)
+        - A) Continuous quality improvement
+        - B) Expanding territory
+        - C) Increasing patient volume
+        - D) Decreasing operational costs
+
+
+### Answer Key:
+1. A) Continuous improvement (pg. 3)
+2. A) National Highway Traffic Safety Administration (NHTSA) (pg. 4)
+3. A) Data collection and analysis (pg. 5)
+4. A) Quality (pg. 6)
+5. A) Ongoing assessment and improvement (pg. 8)
+6. A) Reducing variability (pg. 9)
+7. A) Root cause analysis (pg. 10)
+8. A) Leadership (pg. 11)
+9. A) Improving patient outcomes (pg. 12)
+10. A) Resistance to change (pg. 14)
+11. A) Strong leadership (pg. 15)
+12. A) Meeting minimum standards (pg. 16)
+13. A) Benchmarking against best practices (pg. 17)
+14. A) Informing decision-making (pg. 18)
+15. A) Patient satisfaction (pg. 19)
+16. A) Performance indicators (pg. 20)
+17. A) Ongoing training (pg. 21)
+18. A) Commitment from leadership (pg. 22)
+19. A) Organizational goals (pg. 23)
+20. A) Continuous quality improvement (pg. 24)
